@@ -1,0 +1,9 @@
+export(
+       "cacheSweave",
+       "setCacheDir",
+       "getCacheDir",
+       "cacheSweaveDriver"
+       )
+
+import(filehash)
+import(utils)
