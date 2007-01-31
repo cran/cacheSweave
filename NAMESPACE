@@ -2,8 +2,8 @@ export(
        "cacheSweave",
        "setCacheDir",
        "getCacheDir",
+       "setBaseURL",
+       "getBaseURL",
        "cacheSweaveDriver"
        )
 
-import(filehash)
-import(utils)
