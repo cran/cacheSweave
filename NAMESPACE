@@ -1,11 +1,8 @@
 export(
        "setCacheDir",
        "getCacheDir",
-       "setBaseURL",
-       "getBaseURL",
        "cacheSweaveDriver"
        )
 
-import("utils")
-
-
+import(utils)
+import(digest)
