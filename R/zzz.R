@@ -1,19 +1,5 @@
 .onLoad <- function(lib, pkg) {
-        pkgList <- c("filehash", "stashR")
-        
-        for(pkg in pkgList) {
-                status <- suppressMessages({
-                        require(pkg, quietly = TRUE, character.only = TRUE)
-                })
-                if(!status)
-                        stop(gettextf("'%s' package required", pkg))
-        }
         assign("cacheDir", ".", .cacheEnv)
-}
-
-.onAttach <- function(lib, pkg) {
-        if(!require(utils))
-                stop("'utils' package required to use 'Sweave'")
 }
 
 .cacheEnv <- new.env(parent = emptyenv())

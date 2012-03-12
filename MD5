@@ -1,0 +1,17 @@
+6f7f25e42b48e37a73d531696409dc28 *DESCRIPTION
+938ef59f14e2a9957c677e7516cb5c86 *NAMESPACE
+87c0d20321942e92f48199d69fadef8d *R/SweaveCache.R
+d6a21402ef46a82e6f0462d0a0a832af *R/utils.R
+c5dddeb53a34b2543f053fae9a3dbc42 *R/zzz.R
+d3967369e8cda8f441080f49be909d4a *inst/COPYING
+3b0b2037f301081f7e86eb3d20fb13b9 *inst/NEWS
+82a9b701ec5d1fd0626a9fca52bf1304 *inst/doc/cacheSweave.Rnw
+9b15a4006d6ae43a5dab2bd117ceb904 *inst/doc/cacheSweave.pdf
+91c2ae721f07c5b5a0ff9ed440435991 *inst/doc/combined.bib
+3aed5a786aaac7d8c29a55aad650460c *inst/example/simpleRR.Rnw
+607eee2fdaeb8ff782b42f02f9a71ad6 *inst/misc/Sweave.sty
+a84834be841c37aa54bb05c295d576b4 *inst/misc/test.Rnw
+45c8ceb8b6ac1a36e72ce3037c7a87a6 *man/cacheSweave.Rd
+137d96ae6c6750f11eaa54ffc3200bb7 *man/setCacheDir.Rd
+6a29e791e1ae62abf37c0f365377c7f6 *tests/reg-tests.R
+ebf55746ebb6e2bd65573ab68a663999 *tests/reg-tests.Rout.save
